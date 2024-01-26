@@ -1,0 +1,14 @@
+.navBar{
+  display: flex;
+  background-color:black;
+  color: tomato;
+  text-decoration: none;
+  height: 50px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navBar .active{
+  color:tomato;
+}
+
